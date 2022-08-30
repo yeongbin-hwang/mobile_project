@@ -2,7 +2,7 @@
 This is simple implementation of Emergency bodyguard in BLE.
 
 ## Tested Enviornment
-Data collection: Arduino Nano 33 BLE Sense
+Data collection: Arduino Nano 33 BLE Sense.
 
 Make classifier: Google Colab
 
